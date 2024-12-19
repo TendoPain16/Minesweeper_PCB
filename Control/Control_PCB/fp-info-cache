@@ -1,4 +1,4 @@
-24196244429335599
+24206647228563792
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -67851,6 +67851,13 @@ Mounting 4.5mm 9774100982
 8
 1
 MyLibrary
+2_pin
+
+
+0
+0
+0
+MyLibrary
 Arduino_Mega
 
 
@@ -67865,12 +67872,47 @@ Arduino_Mega_Removed_Drills
 86
 86
 MyLibrary
+MODULE_ZC576300
+
+
+0
+6
+6
+MyLibrary
 Pin_Hole_0.9
 
 
 0
 1
 1
+MyLibrary
+TerminalBlock_bornier-2_P5.08mm
+simple 2-pin terminal block, pitch 5.08mm, revamped version of bornier2
+terminal block bornier2
+0
+2
+2
+MyLibrary
+TerminalBlock_bornier-3_P5.08mm
+simple 3-pin terminal block, pitch 5.08mm, revamped version of bornier3
+terminal block bornier3
+0
+3
+3
+MyLibrary
+TerminalBlock_bornier-6_P5.08mm
+simple 6pin terminal block, pitch 5.08mm, revamped version of bornier6
+terminal block bornier6
+0
+6
+6
+MyLibrary
+TerminalBlock_bornier-8_P5.08mm
+simple 8pin terminal block, pitch 5.08mm, revamped version of bornier8
+terminal block bornier8
+0
+8
+8
 NetTie
 NetTie-2_SMD_Pad0.5mm
 Net tie, 2 pin, 0.5mm square SMD pads
