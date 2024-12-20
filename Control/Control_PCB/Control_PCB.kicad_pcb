@@ -10082,7 +10082,7 @@
 			)
 		)
 		(property "Value" "Metal_Sensor"
-			(at 4.034 -4.832 90)
+			(at 4.072 4.852 90)
 			(layer "F.SilkS")
 			(uuid "bd28bf70-ea5f-4bbc-88d9-4ee58cd3cee6")
 			(effects
@@ -10373,7 +10373,7 @@
 				)
 			)
 		)
-		(property "Value" "battery"
+		(property "Value" "battery_9v"
 			(at 1.25 5.068 0)
 			(layer "F.SilkS")
 			(uuid "66d5c499-8dbe-472f-9de4-32c2629a840c")
@@ -11478,7 +11478,7 @@
 			)
 		)
 		(property "Value" "Power_Input_12V"
-			(at 2.51 -4.82 90)
+			(at 2.51 5.08 90)
 			(layer "F.SilkS")
 			(uuid "32cc0fcc-b35f-4c58-806c-572475343d36")
 			(effects
@@ -15086,7 +15086,7 @@
 			)
 		)
 		(property "Value" "Router_Power"
-			(at 2.51 -5.08 90)
+			(at 2.51 5.08 90)
 			(layer "F.SilkS")
 			(uuid "9e812a1b-5f49-4b81-b816-d09557d97f7c")
 			(effects
@@ -26161,7 +26161,7 @@
 		)
 	)
 	(gr_text "GND"
-		(at 40.936 88.4 0)
+		(at 55.88 88.392 0)
 		(layer "F.SilkS")
 		(uuid "0e276a66-9fea-4810-9046-0a7ec26750d1")
 		(effects
@@ -26317,7 +26317,7 @@
 		)
 	)
 	(gr_text "GND"
-		(at 40.64 72.256 0)
+		(at 56.896 72.136 0)
 		(layer "F.SilkS")
 		(uuid "4bb35a13-1413-4477-9047-24c8f3f79d91")
 		(effects
@@ -26554,7 +26554,7 @@
 		)
 	)
 	(gr_text "VCC"
-		(at 40.936 78.3 0)
+		(at 55.88 78.3 0)
 		(layer "F.SilkS")
 		(uuid "9f0efc20-1a65-41a9-908d-c6c91b91c71f")
 		(effects
@@ -26587,7 +26587,7 @@
 		)
 	)
 	(gr_text "DATA"
-		(at 40.936 82.5 0)
+		(at 56.17 82.49 0)
 		(layer "F.SilkS")
 		(uuid "a8e43c38-6ca6-4fe6-849d-2176153037a0")
 		(effects
@@ -26631,7 +26631,7 @@
 		)
 	)
 	(gr_text "VCC"
-		(at 40.64 67.056 0)
+		(at 56.896 67.056 0)
 		(layer "F.SilkS")
 		(uuid "b9bfc998-d2b4-493b-8d85-5ed68d9a0fe5")
 		(effects
@@ -26719,7 +26719,7 @@
 		)
 	)
 	(gr_text "AD3"
-		(at 40.936 83.9 0)
+		(at 55.89 83.92 0)
 		(layer "F.SilkS")
 		(uuid "d24f0788-8d49-46cc-9131-c302033b0da0")
 		(effects
