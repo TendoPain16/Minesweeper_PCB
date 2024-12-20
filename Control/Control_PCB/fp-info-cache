@@ -1,4 +1,4 @@
-24206647228563792
+24210022841431851
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -56797,6 +56797,13 @@ MODULE_ZC576300
 0
 6
 6
+External_footprint_lib
+module_mpu6050
+
+
+0
+8
+8
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -67910,6 +67917,13 @@ MyLibrary
 TerminalBlock_bornier-8_P5.08mm
 simple 8pin terminal block, pitch 5.08mm, revamped version of bornier8
 terminal block bornier8
+0
+8
+8
+MyLibrary
+module_mpu6050
+
+
 0
 8
 8
